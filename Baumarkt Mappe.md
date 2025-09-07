@@ -43,7 +43,7 @@ Ulrich Krischtan schreibt Filme und Kurzgeschichten. Für den Film «GAFFN,CHILL
 
 #### Team
 
-|:--|:--|
+|:-----------|:---------------------|
 | Produktion | Ulrich Krischtan, ?? |
 | Regie | Ulrich Krischtan |
 | Drehbuch | Ulrich Krischtan |
